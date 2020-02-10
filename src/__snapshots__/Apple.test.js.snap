@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Apple 1`] = `
+<img
+  alt="Apple"
+  className="apple"
+  src={
+    Object {
+      "ReactComponent": [Function],
+      "__esModule": true,
+      "default": "apple.svg",
+    }
+  }
+/>
+`;
+
+exports[`Basket 1`] = `
+<div
+  className="basket"
+>
+  <div
+    className="apples"
+  >
+    <img
+      height={150}
+      src={
+        Object {
+          "ReactComponent": [Function],
+          "__esModule": true,
+          "default": "shopping-basket.svg",
+        }
+      }
+      style={
+        Object {
+          "opacity": 0.5,
+          "position": "relative",
+          "zIndex": 1,
+        }
+      }
+      width={200}
+    />
+  </div>
+</div>
+`;

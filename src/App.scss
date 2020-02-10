@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  width: 70%;
+  padding: 30px;
+ // background: #000;
+}
+body{
+  background: #252525;
+}
+.headButton {
+  text-align: right;
+
+  button {
+    padding: 15px;
+    background-color: green;
+    border: 1px #ddd solid;
+    color: white;
+    outline: none;
+    border-radius: 20px;
+    &:hover {
+      background: darkred;
+    }
+  }
+}
+
+.content {
+  position: relative;
+ // background: yellow;
+  width: 512px;
+  height: 512px;
+  margin: 0 auto;
+  .apples {
+
+    .apple {
+      width: 48px;
+      height: 48px;
+      position: absolute;
+      z-index: 9;
+    //  top: 31.5%;
+     // left: 10%;
+    }
+
+  }
+}
+
+.basket {
+  text-align: right;
+  .apples {
+    position: relative;
+   // border: red 1px solid;
+    width: 200px;
+    float: right;
+    .apple {
+      position: absolute;
+      width: 24px;
+      height: 24px;
+    }
+  }
+
+}

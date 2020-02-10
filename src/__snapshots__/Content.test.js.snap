@@ -1,0 +1,175 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content 1`] = `
+<div>
+  <div
+    className="headButton"
+  >
+    <button
+      onClick={[Function]}
+    >
+      SHAKE AND BASKET APPLES!
+    </button>
+  </div>
+  <div
+    className="content"
+  >
+    <div
+      className="apples"
+    >
+      <img
+        alt="Apple"
+        className="apple"
+        src={
+          Object {
+            "ReactComponent": [Function],
+            "__esModule": true,
+            "default": "apple.svg",
+          }
+        }
+        style={
+          Object {
+            "left": "10%",
+            "top": "31.5%",
+          }
+        }
+      />
+      <img
+        alt="Apple"
+        className="apple"
+        src={
+          Object {
+            "ReactComponent": [Function],
+            "__esModule": true,
+            "default": "apple.svg",
+          }
+        }
+        style={
+          Object {
+            "left": "20.5%",
+            "top": "24.5%",
+          }
+        }
+      />
+      <img
+        alt="Apple"
+        className="apple"
+        src={
+          Object {
+            "ReactComponent": [Function],
+            "__esModule": true,
+            "default": "apple.svg",
+          }
+        }
+        style={
+          Object {
+            "left": "25.5%",
+            "top": "37%",
+          }
+        }
+      />
+      <img
+        alt="Apple"
+        className="apple"
+        src={
+          Object {
+            "ReactComponent": [Function],
+            "__esModule": true,
+            "default": "apple.svg",
+          }
+        }
+        style={
+          Object {
+            "left": "37%",
+            "top": "28%",
+          }
+        }
+      />
+      <img
+        alt="Apple"
+        className="apple"
+        src={
+          Object {
+            "ReactComponent": [Function],
+            "__esModule": true,
+            "default": "apple.svg",
+          }
+        }
+        style={
+          Object {
+            "left": "61%",
+            "top": "22%",
+          }
+        }
+      />
+      <img
+        alt="Apple"
+        className="apple"
+        src={
+          Object {
+            "ReactComponent": [Function],
+            "__esModule": true,
+            "default": "apple.svg",
+          }
+        }
+        style={
+          Object {
+            "left": "62%",
+            "top": "38%",
+          }
+        }
+      />
+      <img
+        alt="Apple"
+        className="apple"
+        src={
+          Object {
+            "ReactComponent": [Function],
+            "__esModule": true,
+            "default": "apple.svg",
+          }
+        }
+        style={
+          Object {
+            "left": "68%",
+            "top": "29%",
+          }
+        }
+      />
+      <img
+        alt="Apple"
+        className="apple"
+        src={
+          Object {
+            "ReactComponent": [Function],
+            "__esModule": true,
+            "default": "apple.svg",
+          }
+        }
+        style={
+          Object {
+            "left": "75%",
+            "top": "29%",
+          }
+        }
+      />
+    </div>
+    <img
+      alt="Tree"
+      src={
+        Object {
+          "ReactComponent": [Function],
+          "__esModule": true,
+          "default": "tree.svg",
+        }
+      }
+      style={
+        Object {
+          "height": 512,
+          "width": 512,
+        }
+      }
+    />
+  </div>
+</div>
+`;
